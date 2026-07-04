@@ -42,6 +42,6 @@ Select this:
 
 <img width="187" height="45" alt="image" src="https://github.com/user-attachments/assets/45cc33b0-d31c-432f-98a9-c9f1e0b5c21f" />
 
-to revoke folder permissions, even for an administrator.
+to revoke folder permissions, even for an administrator. 
 
 <img width="444" height="262" alt="image" src="https://github.com/user-attachments/assets/ae244f45-1453-4fb3-9006-ed6c25e7db04" />
